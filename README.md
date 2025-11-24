@@ -1,2 +1,2 @@
 # AffinityNet-DTA
-AffinityNet-DTA: Drug Discovery
+affinitynet-benchmark
